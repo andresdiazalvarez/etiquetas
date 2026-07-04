@@ -1,8 +1,8 @@
 :root {
-  --red: #7f1d1d;
-  --red-dark: #5f1515;
-  --red-soft: #fee2e2;
-  --paper: #f7f1ef;
+  --red: #450a0a;
+  --red-dark: #2a0606;
+  --red-soft: #f4cccc;
+  --paper: #f3eeee;
   --card: #ffffff;
   --ink: #251a1a;
   --muted: #6f5551;
@@ -125,7 +125,7 @@ button {
 .danger {
   width: 100%;
   background: #fff1f1;
-  color: #8f1212;
+  color: #6b0f0f;
   border: 1px solid #efb4ad;
 }
 
@@ -208,7 +208,7 @@ th, td {
 
 th {
   background: #fff1f1;
-  color: #5f1515;
+  color: #2a0606;
   font-size: 13px;
   text-transform: uppercase;
   letter-spacing: .04em;
@@ -299,7 +299,7 @@ label {
 
 .photoDelete {
   background: #fff;
-  color: #8f1212;
+  color: #6b0f0f;
   border: 1px solid #efb4ad;
   padding: 13px 16px;
 }
@@ -320,7 +320,7 @@ label {
 }
 
 .voiceBtn.listening {
-  background: #b91c1c;
+  background: #6b0f0f;
 }
 
 .fieldHint {

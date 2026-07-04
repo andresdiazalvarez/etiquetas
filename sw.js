@@ -1,4 +1,4 @@
-const CACHE_NAME = "extintor-v6-voz-serie-rojo";
+const CACHE_NAME = "extintor-v7-rojo-oscuro";
 const ASSETS = [
   "./",
   "./index.html",

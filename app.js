@@ -493,7 +493,7 @@ async function downloadExcel() {
   ];
   sheet.columns = columns.map(([key, header, width]) => ({ key, header, width }));
   sheet.getRow(1).font = { bold: true, color: { argb: "FFFFFFFF" } };
-  sheet.getRow(1).fill = { type: "pattern", pattern: "solid", fgColor: { argb: "FF7F1D1D" } };
+  sheet.getRow(1).fill = { type: "pattern", pattern: "solid", fgColor: { argb: "FF450A0A" } };
   sheet.getRow(1).alignment = { vertical: "middle", horizontal: "center", wrapText: true };
   sheet.getRow(1).height = 30;
 

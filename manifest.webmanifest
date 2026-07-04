@@ -3,8 +3,8 @@
   "short_name": "Extintor",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#f7f1ef",
-  "theme_color": "#7f1d1d",
+  "background_color": "#f3eeee",
+  "theme_color": "#450a0a",
   "icons": [
     {
       "src": "icon.svg",
