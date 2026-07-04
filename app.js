@@ -407,7 +407,7 @@ async function saveForm(event) {
   if (index >= 0) records[index] = record;
   else records.unshift(record);
   await saveRecords();
-  showView("list");
+  openForm();
 }
 
 async function deleteCurrent() {
