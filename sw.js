@@ -1,4 +1,4 @@
-const CACHE_NAME = "extintor-v7-rojo-oscuro";
+const CACHE_NAME = "extintor-v8-rojo-brillante";
 const ASSETS = [
   "./",
   "./index.html",
